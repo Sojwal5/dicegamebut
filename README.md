@@ -1,1 +1,1 @@
-# dicegamebut
+# dicegame
